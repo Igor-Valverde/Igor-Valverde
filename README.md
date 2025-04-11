@@ -1,7 +1,7 @@
-<h1 align="center">Olá! 👋 Me chamo [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Me chamo Igor Valverde</h1>
 
 <p align="center">
-  Técnico em Desenvolvimento de Sistemas <br>
+  Técnico em Desenvolvimento de Sistemas (Senai) <br>
   🎓 Graduando em Ciência da Computação (3º semestre) <br>
   🚀 Focado em aprender e construir soluções inteligentes
 </p>
@@ -32,7 +32,6 @@
 
 ### 💬 Contato
 
-- 📫 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)
+- 📫 Email: valverdeanjos@gmail.com(mailto:valverdeanjos@gmail.com)
 
 ---
