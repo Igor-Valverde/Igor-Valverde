@@ -13,7 +13,7 @@
 \`\`\`python
 class Igor:
     def __init__(self):
-        self.formacao = "Ciência da Computação — 3º semestre"
+        self.formacao = "Ciência da Computação — 6º semestre"
         self.base_tecnica = "Técnico em Dev. de Sistemas (Senai)"
         self.aprendendo = ["Python", "Análise de Dados", "Boas práticas"]
         self.modo_favorito = "resolver problema real"
