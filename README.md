@@ -10,8 +10,6 @@
 
 <br>
 
-
-
 \`\`\`python
 class Igor:
     def __init__(self):
@@ -43,15 +41,13 @@ class Igor:
 ## 📌 Em destaque
 
 <div align="center">
-  <a href="https://github.com/Igor-Valverde?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Valverde&repo=NOME-DO-REPO-1&theme=radical&hide_border=true" />
+  <a href="https://github.com/Igor-Valverde/projeto-portifolio-igor-valverde">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Valverde&repo=projeto-portifolio-igor-valverde&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Igor-Valverde?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Valverde&repo=NOME-DO-REPO-2&theme=radical&hide_border=true" />
+  <a href="https://github.com/Igor-Valverde/Dashboard_GLPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Valverde&repo=Dashboard_GLPI&theme=radical&hide_border=true" />
   </a>
 </div>
-
-<sub>💡 Troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos repositórios que você quer fixar aqui.</sub>
 
 <br>
 
