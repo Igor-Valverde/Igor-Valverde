@@ -10,9 +10,7 @@
 
 <br>
 
-## 🧭 Sobre o percurso
 
-Comecei pelo Senai, na formação técnica em Desenvolvimento de Sistemas, e hoje sigo na graduação em Ciência da Computação (3º semestre). No meio do caminho, aprendi que código bom não é o que só funciona — é o que outra pessoa consegue entender às 2h da manhã depurando um bug.
 
 \`\`\`python
 class Igor:
