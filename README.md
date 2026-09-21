@@ -1,69 +1,81 @@
-<h1 align="center">Olá, eu sou o Igor Valverde 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:valverdeanjos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Igor%20Valverde&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construindo%20l%C3%B3gica,%20uma%20linha%20por%20vez&descAlignY=58&descSize=18" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Tecnico+em+Desenvolvimento+de+Sistemas;Graduando+em+Ciencia+da+Computacao;Aprendendo+Python+na+pratica;Curioso+por+natureza+%F0%9F%94%8D" />
+
+</div>
+
+<br>
+
+## 🧭 Sobre o percurso
+
+Comecei pelo Senai, na formação técnica em Desenvolvimento de Sistemas, e hoje sigo na graduação em Ciência da Computação (3º semestre). No meio do caminho, aprendi que código bom não é o que só funciona — é o que outra pessoa consegue entender às 2h da manhã depurando um bug.
+
+\`\`\`python
+class Igor:
+    def __init__(self):
+        self.formacao = "Ciência da Computação — 3º semestre"
+        self.base_tecnica = "Técnico em Dev. de Sistemas (Senai)"
+        self.aprendendo = ["Python", "Análise de Dados", "Boas práticas"]
+        self.modo_favorito = "resolver problema real"
+
+    def cafe_necessario(self) -> str:
+        return "☕ sempre"
+\`\`\`
+
+<br>
+
+## 🧰 Caixa de ferramentas
+
+<div align="center">
+
+| Linguagens | Web | Dados | Ferramentas |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
+
+<br>
+
+## 📌 Em destaque
+
+<div align="center">
+  <a href="https://github.com/Igor-Valverde?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Valverde&repo=NOME-DO-REPO-1&theme=radical&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
-  🎓 Técnico em Desenvolvimento de Sistemas (Senai)<br>
-  💻 Graduando em Ciência da Computação — 3º semestre<br>
-  🚀 Construindo soluções inteligentes e aprendendo todos os dias
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Igor-Valverde&style=flat-square&color=blueviolet" alt="profile views" />
-</p>
-
----
-
-### 🧠 Sobre mim
-
-- 🔭 Atualmente aprofundando conhecimentos em **desenvolvimento de sistemas** e **ciência de dados**
-- 🌱 Estudando **Python** aplicado a automação e análise de dados
-- 🤝 Aberto a colaborar em projetos de tecnologia e inteligência computacional
-- ⚡ Curioso por natureza, gosto de entender o "porquê" por trás do código
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Igor-Valverde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Valverde&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-Valverde&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Contato
-
-<p align="center">
-  <a href="mailto:valverdeanjos@gmail.com">
-    <img src="https://img.shields.io/badge/-valverdeanjos@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Igor-Valverde?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Valverde&repo=NOME-DO-REPO-2&theme=radical&hide_border=true" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <i>Feito com dedicação por Igor Valverde 🚀</i>
-</p>
+<sub>💡 Troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos repositórios que você quer fixar aqui.</sub>
+
+<br>
+
+## 🎯 No radar
+
+- 🐍 Aprofundando **Python** para automação e análise de dados
+- 📚 Consolidando fundamentos de lógica e estrutura de dados na graduação
+- 🛠️ Construindo projetos pessoais para sair da teoria e ir pra prática
+- 🎯 Meta: meu primeiro projeto de dados de ponta a ponta
+
+<br>
+
+<div align="center">
+
+### Vamos conversar?
+
+<a href="mailto:valverdeanjos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" />
+
+</div>
